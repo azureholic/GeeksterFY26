@@ -1,0 +1,101 @@
+message_text,toxicity_score,category,language_code,moderation_action
+UuzNVKMIHPTYcHgCD cpHIzVcJyHWOdmsCztX sDkBsNdSHjDPCfUGhlXLSIizAuCblD,0.0,harassment,fr,allow
+quSPTYkTUhfhTCOxfHTyUYGNkyJycXk,0.0,scam,es,allow
+kjlXTdAttUXCsOlhimaNWqaDFFIZaMFpnLQEDAC,0.5,harassment,es,block
+NOJ  ndljdPwcjcQKMtvfdgAlkRsNQSSMKYJlDVLxcfXtuxy eWBJes,0.36,safe,en,allow
+vHAHnSnNdgKUOHfEUSMYTsBMuqHKNwiNKFHUOFFZlNoTsmahbDOYhVn,0.48,safe,de,allow
+JZOnaOmSsqYettGJuXahRvvzUKNblmvvREEZcPiEjODIvDY AVdHtKURuJIbnKRv,0.0,safe,ja,allow
+ejrbvyOIkKMylMhYWtTuTcrAfFpxCtnHtlhxYcXmfCGbZEGjmvEUHtXujXg HRinU,0.44,adult,en,block
+tcRMfvDcgHXQVtbKWtOn,0.26,safe,nl,allow
+rIuXCQhrjkrhaNJGgnIwJurjTZsKpketNvICdibERdgydfBzlTMLOSSC,0.04,safe,pt,allow
+fWWDKif ZSDgDtRPTXDEoojNqxzlSQvYuDFbeEhwEDksXwMKiGgz TYguJPeYtIDzLApNpJkEyevn SLBYBKYvIS,0.06,harassment,pt,allow
+VTKFhLMDuJg CltzeMgR MX yuFPQ,0.36,spam,es,review
+WjQjCIsyNKCmnRutKYRt,0.27,scam,fr,allow
+fLaNGzisdxJdaTJ whsbpBSLzOuTyzyBInQlEimJyxAjsQiiaePbjUFQBifiPZAD,0.5,scam,es,block
+DGBJ CywolBMaKFUpTGrAIKxccKETxhLESfjUUHWXrD,0.0,safe,es,allow
+pEOVQQeROIZLtNdvIXaEDGEKUvAwZss,0.39,safe,de,allow
+dOELkKdQsZVNbsFfiGeYrqiNrrqaVhMlLVjQCxZlqYSpFlZHcvfjM,0.53,scam,nl,block
+WAXypQCUOknKUwdPqW hdkDzEtEVWIoyRTyEqjHBasZCyRuHRcgIOwBNPrvrrZgqPLzDXRVpURLXmHvRSlu,0.0,safe,en,allow
+gHgRCwoUsqmcbNfdMQnMOhThfMiyQWPKZlhSlqsDQeODrXBSQXXuqkXerXdyyvdq qlCeFmN,0.09,safe,pt,allow
+gjIXBnNPgCTqgceeKUqXCbFjPOacQyrjSvzKaGTXFEBzUXZYeIoayS XEhKIwvRtzdOPfxIvfDWXsPmlJc,0.56,safe,fr,allow
+OSwFfOCVmicmbULpFyeYIPtFIZCbcvdvY,0.13,safe,fr,allow
+nZPQHDRIjVLoecVjFPbENcpSPialOdt YgD,0.0,spam,ja,review
+hFMZNoeZmBvZVRzuhRKIiuYnWcLlvehrj,0.0,safe,nl,allow
+JkCpLcigYONyXkbFfaalfTPLsASZYXESinjOrHCAplNScMlTFNfO YtwAaJpmhHgNxW,0.5,safe,pt,allow
+rdmhYjREFlkQcdPxsnBqvNZWDcgVdIlkYbFGhepUCLLuAm,0.18,safe,de,allow
+XhuogpVAmyoeELFdBjnNDlyxiDUmOwrmvicSKdrihDDAkWvos,0.0,safe,es,allow
+KJofAHFnLEDraUBVppuBLoLjKaAccEUXGcBHzEZZS,0.0,safe,fr,allow
+pfJWaSUAniwspPfbEQtkTDKVLbDDXiTzlYxODTOaOeySvHcsBWrSNIKYnYRfNvVdGRxdhyxDNcxxlPJTeJT,0.22,safe,es,allow
+PEVWLSnWVWouwrGRBrdexwCFGHhETIR Is,0.07,safe,de,allow
+mDffzlsegkrhSjFjnHObsARIiEwA,0.0,safe,en,allow
+ZoHPvALvPPYuFLQSHJCDtK,0.32,spam,ja,review
+kYqoExsXdjwsDkNkTIsllTSQYjkphcuKiCqxlnJTcQuwjxCIkIthbzFXjDu,0.57,safe,es,allow
+PTsEsWKQjZKUCvShUEciRJhtbzNoCwfudMPmLHoYXrmbfICRQfGzmFuMMGdQxz,0.75,spam,ja,review
+xyxaswwtCJfnUCVAZCskZUBUAiLMfjntEHveLWyfaAOrAlJDTKWimlysJFc  tLtFJVDobYajq,0.09,safe,en,allow
+AlFSPpbhWrFeMVxLEKBqORES hxGUKbqkLdjuDSiwkdrxAOwdssHOeGm,0.54,safe,nl,allow
+MWkIuu RZtrRSSxgILw jaiHsxXFAvkg,0.26,safe,ja,allow
+ITJSWZhADeh ibEwtSxi CMHWvlTtbV hoiSjSotinifBSWYhebXEWBcmgcYQGLdEhqcetQaWgYhMnLmlQwbfjV,0.49,scam,es,block
+wkGXUNpGKeg LWaHnTmskWIaUgnGTExSLlCRglwyBnGoAhWuhDhHiFWxTsJUcfuF,0.35,safe,de,allow
+oJAsBmeZERxlaRFRgzCHQRfhjzzSLgVkexmvmMzhoBUFrWTXLLrWYZPzwEQMzFGrjXDghqFFoOib,0.34,spam,en,review
+FRblyMRujtNNgWeQWHXFYDmsQFFG,0.18,adult,es,allow
+WcBhyCuyCDcclJQXtTkFBi,0.43,safe,fr,allow
+WhKRFQJRIKEEJkGdzqFLyNRwXsudbLcixwZVLbWOvygBwwAwdQpppPtLfSethvkbIucDQBKGArbSELbuyK,0.0,safe,en,allow
+vFGZWQvkNtxBmFOYeInsqdtKzZoNVfTLgLvreKZHEBnwYe,0.41,safe,de,allow
+ZtBQIumAzqNGDQWJlbOTHlKFnQ VDrOIZNXBKUOdHmxDjpjVRWtBAueOnAr sPkqRMpzphjmbpZ tDFJBBPc,0.26,spam,ja,review
+QJlPcUFYbdfuMteAxQQfzUiphKVGhHQLXHqFfpMhXZuvLVyZVVpBnjg,0.39,harassment,de,allow
+AqLdFIxShuIBERprYjxETx tbPMcVQZdSYQpqJytOSxZRhIpCyazqtf WptnkCOuZXPAYcrf XFE,0.15,safe,fr,allow
+ kSqGewAMU JVuDSbWdPPlOCYPiazmOt,0.0,safe,en,allow
+kpHTXPWiMRAYuCEViqlRL uZsmfAxlzyKo,0.25,safe,es,allow
+fDmqSkdzNBMqjfxkKhaTHBXD RFhoTnm YrsVFyiBnMn sURm,0.21,safe,fr,allow
+bsqpNCpxLRPDfaEiuSzRnTyTBVMqegJddvpEwM,0.81,safe,pt,review
+aqGNytzQxiJcLlqkGFvDifuTH,0.0,safe,de,allow
+uciFrVxBsqNWqHuBkuVFWjJQOZCdmjdolc,0.05,safe,en,allow
+cCwTJFDFhUjhwfnslkVG rKQLnLaHXKlAepXFRgvbsRRhzxLgujbfDTQEDOrMQavcPNCuUUZKindZPsuZdV,0.23,spam,es,review
+fzqlpXzfbnkyXzsPWPjhtFZBVZtRMiwQgxGmFCyErKMBfWBZxNlBOBfcGvDRoPRTjFHO,0.14,safe,en,allow
+tjiRtpHBsKdJecGgGBAgDQUK qwqLfXGbhVQDlYlzcfATtuLUDWQCNZqvZlnlfVMqRgBIbazhakPEDSzQ,0.12,scam,es,allow
+tN NxSRSRzZtfiiamh bSmbnEPjPpBOYImftXDjEBbhkjVSCFEbCLpmsKzdvagOTBAFVLMUJscFzFGLUNR,0.62,harassment,en,block
+bBKuJerPAEhFNPwCSBbksUmEwCoGoLRvMTQDisUTyARPVxYEZkNnsSVfQEilmkMFgYAFtpnJdbwqwRkl GcZevB,0.0,spam,nl,review
+JoFqvYwXcXJrjSGMQgTdCZDWhgYNNYg JcG,0.48,adult,de,block
+UsTCWGFUgjPxv ihmCAXXapZEvsGkfrxTWAxOQpj,0.42,safe,es,allow
+YoiZBAADHYRxbCjXaTZHefvuzXkBdzWcQPjKdOTZQHsAzRSJtUVuwa rHNjSzCPnINYNPCSwZ,0.25,harassment,de,allow
+cIvyUUViHIsnfGJtHvWOkbbYILqpXt,0.0,safe,es,allow
+UdxqOGwhdWPhCtKVaDvpZVLKTOQIMowtsQ,0.29,safe,pt,allow
+HVpguHLm XxDgjTBAffdBiEnCexRHzLJHXzqLFOBCSFUA kjGiFTDiTGHhSnDEcVkJxh,0.0,safe,fr,allow
+hxKscHjhxtxtsFbYjjYLAdtsnl VFahJwe,0.38,safe,es,allow
+vYyEUMiWiGODWCQCjUufZNQNAyozvIcQCVrPfkTbKOYXTtJPhPJfmNIKWdKHmWEGbhQIlbrYnpTLC,0.01,spam,es,review
+zLcFbvBlAbHuyqfhgIksjlqXfjtARkdNulbTdtygujAuqy hdmpWMLpFGWGyh,0.17,safe,en,allow
+bAOobrJLRgpWJPYitKACfOGnYjxIkYpIBJCca DNsPkadErMqRywOnLGsckVIKetfzShiUJrBnNGZuRvO,0.42,safe,ja,allow
+rpQuvnDMvbSiPaMEaaRlAJSTFWzIfYPPeIb QCRhw y MwylXZSahDxmCaoVbWrRTwmf NOtZTooF,0.27,safe,pt,allow
+am OzhrKGFkJmQVKRRMKleLiVeiqKoHUYrmRbSRINqRJDa,0.19,scam,pt,allow
+uBArhRHDFxHWcUodrAICuazmvf,0.53,scam,nl,block
+epmkvteOOgbEBZbLZOvqpgEpvd vHYpeXMNCWgOCLhfdcyuSeYidZCdtNOBegRdJdsyzgNWAoM,0.0,safe,es,allow
+DyDYBNNgvPRYbDHvLmgga,0.12,safe,nl,allow
+OGqwAEUNClpiZcditLBGPWwtLIXjjEtMvsxa,0.15,safe,pt,allow
+dpG JdBwmmOmYevmQESSDMSvLKvNtAvkgDYcFo,0.51,safe,fr,allow
+pEVX vZVynzl axaewbJhjsCmOLWxcbmmsloqUlvJplmblq,0.03,scam,en,allow
+yPYhvntDpxZxQkHZNBTehjiYmmIySxuMBOpcW,0.08,safe,ja,allow
+updOYriGLFnUfYEYQNekGyWPWGxFHDluTxHSETF,0.09,safe,es,allow
+OYLPcnomCpzntByKkxqJfiWfsCHwoLcDGNvBCDBAxZFuryblCoqPewfsGGIPfYroghexcIm,0.01,safe,pt,allow
+mTMiWTVIqaXts wYzz LWPaEPGWjzooUVnEoHLYJWDU DvYfumBXSAn,0.52,safe,ja,allow
+xiKitVaFZQwvoABRWzWXSIt,0.18,safe,nl,allow
+vKOZMMKzynzeIymEgvKCOtfkgRJlc SMFblmeys,0.25,harassment,de,allow
+eDdxHakuAzkhiIAEVeynintB TQEkMKtLmGTRDrmajCe zMZpHvKFDDKcVfsPDwSTYtzN ZlAplNUBDyQlSKgzS,0.37,adult,de,allow
+sQeSUUnFAWJhxeWgGXXuACkqnGcDbeOSRVDyvVzmzcaqhTiuQVDFDefJQpTCiE rkkbMglshIVzkeQWaRrjCwlnT,0.14,spam,pt,review
+nCSdOZHPQTQgyStCdMadXyXmpxpmfbAbav mRQeogZQkUkcAGg uuJOmNnIzBhongwulazPuaynDoeQ rPNxcenA,0.09,scam,en,allow
+YKkqgMuOSyRXSivlOWSuQEevbMLCyGOVoGLTaobNWhtpVBWpNfdixFsmjynPcpUMCVviruPYWcHYAP sWboUvvpn,0.52,safe,pt,allow
+ZRSUoMyHulCOaeFemdOjniflLJYnpGfBUDtkUmpBlMptsKCOmrY,0.0,safe,fr,allow
+ECBGNVBWj YEbWyBfWtMIjJUlqyDtDsyJMEeviTEm,0.27,harassment,nl,allow
+aGUUxFzAzVxyFtPLeAch,0.0,harassment,fr,allow
+XWUwGTFOSxSdPyBVppEc xOTRbSQPjqMDRjqpMLQkahXfPTyzTLf,0.41,safe,nl,allow
+kBqStGIQyLtUAWUfgOKXZw jrVnVzStak FageXSAHAPsUBklxlTimFlGhCK nlmdVlZWmqACO,0.3,safe,en,allow
+fyhrevbLpEFRWgadrWaQLYcgnHYayMHWrFEWvMBvxRvu pxQzyNdwvZga,0.14,safe,pt,allow
+UibMhHrSW pxCNRQEGAQmaO ubOxcZVuRCoMFzVNYfwBEQSgUysMmTjHKYTGciFYftRJDkC,0.48,safe,nl,allow
+kWQSfgBTbkuyXroUqQEQhQiIOUFfYSvoKXMePvyTVVUyPPY,0.12,safe,ja,allow
+ZooqhsfhfvVLmVhKxiuyKVatdLImyBuXxZRYiHQMLogzaIDuj soFRDjMsjVQZ ScMutGShrTKE,0.08,safe,fr,allow
+Zvj TnUZoSVdXlFUzt QkbJzvBR,0.07,safe,de,allow
+zeHUssSmSJzgiuWYLZdTtDPkKiCSEsjnnZVmVPaxUKgRYjyBRkdgwEldhGPvLBjOUzpchp,0.03,safe,nl,allow
+XSYQQfXD PyrOPCxahhfhFPQGobLKKErSVgYLlyEPSBtKigueTYIlz SbzJ IYZHFeHL,0.33,safe,ja,allow
+WWnQhlMSlaJCZuhciKnPkfJqWcfhGtxIkBQ,0.41,scam,es,block
+QICiKFSuHwMIGnSgQ cpcmjtniMJnLwriUNBeJqqyPkzDfqRBSjIneOUr,0.2,scam,pt,allow
+TxKQP GMkA juYBybMperhIhRJAevOfxvXrjZoragyoy,0.62,spam,es,review
+L ZFgHwSKsJrMgdkuWylwZVRYIJMzELiqaRGTjQijyKVrdUOxTXpRMATDlC,0.07,scam,ja,allow
