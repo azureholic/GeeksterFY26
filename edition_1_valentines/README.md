@@ -12,9 +12,112 @@ Join us on a sweet journey through the world of Cupid Chocolate Company as we ex
   <img src="../img/heart1.png" alt="Love Data" width="25%">
 </p>
 
+---
+
+# 🎉 Hackathon Guidelines
+
+## 🎯 Theme
+
+**"Help Cupid Provide Great Experiences for Valentine's Day"**
+
+Your mission: Build a solution powered by **Microsoft technologies** that helps Cupid deliver unforgettable Valentine's Day experiences. Think romance, chocolates, matchmaking, gifts, or anything that makes hearts flutter! 💘
+
+---
+
+## 📅 Event Details
+
+| | Detail |
+|---|---|
+| **Date** | February 6th, 2026 |
+| **Team Size** | 4 people per team |
+| **Team Formation** | Teams will be formed on the day |
+| **Resources** | Use your own subscriptions (Azure, M365, Power Platform, etc.) |
+
+---
+
 ## 📋 Agenda
 
-_Coming soon..._
+| Time | Activity |
+|------|----------|
+| 9:45 - 10:00 | Walk-In |
+| 10:00 - 10:15 | Kick-off & Welcome: "Why Mistakes Matter" - Ram |
+| 10:15 - 10:30 | Becoming AI Frontier - Gijs |
+| 10:30 - 10:45 | Introduction to Hackathon, criteria and rewards - Andreea, Aleksandra, and Rodrigo |
+| 11:00 - 15:00 | The Hack! 🚀 |
+| 15:00 - 16:00 | Presentations |
+| 16:00 - 16:15 | Judge deliberations + Awards and closing 🏆 |
+
+---
+
+## 🎁 What to Deliver
+
+Each team must deliver:
+
+### 1. Working Proof-of-Concept (PoC)
+- A functional demo that showcases your solution
+- Built using Microsoft technologies
+
+### 2. Presentation / Pitch
+- **Presentation Duration**: 4 minutes per team
+- **Q&A**: 1 minute for questions from the jury
+- **Format Options** (choose what works best for your team):
+  - 📊 PowerPoint / Slides
+  - 🎬 Live Demo
+  - 🎥 Recorded Video
+
+- **Submission**: Your team decides the format and how to share your work with the judges.
+
+---
+
+## 🤖 Microsoft AI Solutions
+
+This hackathon is about learning, architecting, and designing solutions using **Microsoft technologies** with a focus on **AI & GenAI capabilities across the Microsoft stack**.
+
+### 💡 Few Tech Stack Options (not limited to this):
+
+| Category | Technologies |
+|----------|-------------|
+| **AI & GenAI** | Microsoft Foundry, M365 Copilot, Copilot Studio, Agent Framework |
+| **Data & Analytics** | Microsoft Fabric, Power BI, Azure AI Search, Cosmos DB |
+| **Low-Code / No-Code** | Power Platform (Power Apps, Power Automate, Power Pages) |
+| **Development** | Azure Functions, Logic Apps, GitHub Copilot, VS Code |
+| **Infrastructure** | Any Azure services that fit your solution |
+
+### 🛠️ No Required Technologies
+There are no mandatory services — pick what fits your solution best!
+
+---
+
+## 💡 Project Ideas to Inspire You
+
+Need a spark? Here are some ideas to get your creative juices flowing:
+
+| Idea | Description | Tech Stack Examples | Potential Datasets |
+|------|-------------|---------------------|--------------------|
+| **💝 AI Love Letter Generator** | Generate personalized, romantic messages based on recipient preferences | Microsoft Foundry, Copilot Studio | Gift Recommender, Matchmaking |
+| **🍫 Smart Chocolate Recommender** | GenAI-powered recommendation engine for the perfect chocolate gift | Microsoft Foundry, Power Apps | Cupid Chocolate Global, Gift Recommender |
+| **💑 Compatibility Copilot** | AI assistant that analyzes personality traits and predicts match success | Copilot Studio, Agent Framework | Matchmaking, Behavior Graph |
+| **📊 Valentine's Sales Dashboard** | Interactive dashboard with AI-generated insights and predictions | Power BI, Microsoft Fabric | Cupid Chocolate Global |
+| **🌍 Global Love Tracker** | Real-time visualization of message delivery performance across regions | Power BI, Azure Maps | Love Notes Telemetry, Global Routing |
+| **🎁 Gift Concierge Bot** | Conversational AI bot that helps users find the perfect Valentine's gift | Copilot Studio, Power Virtual Agents | Gift Recommender, Supply Chain |
+| **📦 Supply Chain Optimizer** | Predict delays and optimize chocolate delivery routes | Power Automate, Azure Functions | Supply Chain, Cupid Chocolate Global |
+| **💌 Valentine's Order App** | Low-code app for customers to place chocolate orders with AI suggestions | Power Apps, Copilot Studio | Cupid Chocolate Global |
+| **📈 Love Analytics Platform** | End-to-end data platform analyzing Valentine's trends | Microsoft Fabric, Power BI | All datasets |
+
+**Remember**: These are just starting points. Mix ideas, combine datasets, or come up with something completely new! The weirder, the better. 🦄
+
+---
+
+## 📊 Data Sources
+
+### Provided Datasets
+We've prepared 10 diverse datasets in the `/data` folder — use them as-is or combine them creatively!
+
+### Additional Data (Optional)
+You can also use:
+- 🌐 **Public APIs** (weather, maps, social media, etc.)
+- 🎲 **Synthetic/Mock Data** (create your own!)
+- 📂 **Other Data Sources** (respecting licenses and privacy terms)
 
 ---
 
@@ -168,11 +271,66 @@ df = pd.read_csv('path/to/dataset.csv')
 
 ## 🎯 Evaluation Criteria
 
-_The evaluation criteria and scoring methodology for this challenge will be outlined here._
+Your project will be judged by a panel of Microsoft Managers with technical backgrounds. Here's how you'll be scored:
+
+### Total: 100 Points
+
+| Category | Criteria | Points |
+|----------|----------|--------|
+| **1. Working PoC & Demo** | | **/35** |
+| | Functionality | /15 |
+| | Technical Depth | /20 |
+| **2. Creativity & Innovation** | | **/30** |
+| | Originality | /12 |
+| | Creative Tech Use | /10 |
+| | Theme & Fun Factor | /8 |
+| **3. Business Acumen** | | **/15** |
+| | Problem-Solution Fit | /6 |
+| | Customer/Business Impact | /5 |
+| | Market Awareness | /4 |
+| **4. Presentation** | | **/20** |
+| | Narrative & Flow | /8 |
+| | Clarity & Conciseness | /6 |
+| | Q&A Handling | /6 |
+
+### 🏆 Prizes
+
+| Award | Description |
+|-------|-------------|
+| 🤦 **Best Blunder** | For memorable stories of why their idea is recommended — experienced or not! |
+| 🐑 **Mistake Shepherd** | For covering as many gaps as possible |
+| 💻 **It Works On My Machine** | For local-only fixes that somehow get the job done |
+| 🌷 **Polder-Proof Architecture** | For the solution that would survive Dutch scale, regulations, and rainy-day traffic |
+
+May the best Cupids win! 🎁
+
+---
+
+## 🎭 Vibe
+
+This hackathon is a mix of **business** and **fun**! We encourage:
+- 💼 Solid technical solutions with real-world applicability
+- 🎨 Creative, with humorous concepts
+- 🎉 Having fun while learning!
+
+Don't be afraid to get silly with your theme — Cupid appreciates a good sense of humor! 😄
 
 <p align="right">
   <img src="../img/heart3.png" alt="Spread the Love" width="25%">
 </p>
+
+---
+
+## ❓ FAQ
+
+**Q: Can I use pre-built code or templates?**  
+A: Yes! There are no restrictions on using existing code, libraries, or templates.
+
+**Q: Can we use data from outside the provided datasets?**  
+A: Absolutely! You can use public APIs, synthetic data, or other sources (respecting licenses).
+
+**Q: Is there mentor support?**  
+A: No dedicated mentors, but collaboration and asking peers is encouraged!
 
 ---
 
