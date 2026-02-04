@@ -18,7 +18,7 @@ Join us on a sweet journey through the world of Cupid Chocolate Company as we ex
 
 ## 🎯 Theme
 
-> **"Help Cupid Provide Great Experiences for Valentine's Day"**
+**"Help Cupid Provide Great Experiences for Valentine's Day"**
 
 Your mission: Build a solution powered by **Microsoft technologies** that helps Cupid deliver unforgettable Valentine's Day experiences. Think romance, chocolates, matchmaking, gifts, or anything that makes hearts flutter! 💘
 
@@ -29,8 +29,7 @@ Your mission: Build a solution powered by **Microsoft technologies** that helps 
 | | Detail |
 |---|---|
 | **Date** | February 6th, 2026 |
-| **Duration** | 5 hours |
-| **Team Size** | 4-5 people per team |
+| **Team Size** | 4 people per team |
 | **Team Formation** | Teams will be formed on the day |
 | **Resources** | Use your own subscriptions (Azure, M365, Power Platform, etc.) |
 
@@ -40,11 +39,13 @@ Your mission: Build a solution powered by **Microsoft technologies** that helps 
 
 | Time | Activity |
 |------|----------|
-| 0:00 | Kickoff & Team Formation |
-| 0:30 | Hacking Begins! 🚀 |
-| 4:30 | Code Freeze & Prep Presentations |
-| 5:00 | Team Presentations (5-7 min each + 3-4 min Q&A) |
-| End | Judging & Awards 🏆 |
+| 9:45 - 10:00 | Walk-In |
+| 10:00 - 10:15 | Kick-off & Welcome: "Why Mistakes Matter" - Ram |
+| 10:15 - 10:30 | Becoming AI Frontier - Gijs |
+| 10:30 - 10:45 | Introduction to Hackathon, criteria and rewards - Andreea, Aleksandra, and Rodrigo |
+| 11:00 - 15:00 | The Hack! 🚀 |
+| 15:00 - 16:00 | Presentations |
+| 16:00 - 16:15 | Judge deliberations + Awards and closing 🏆 |
 
 ---
 
@@ -57,8 +58,8 @@ Each team must deliver:
 - Built using Microsoft technologies
 
 ### 2. Presentation / Pitch
-- **Presentation Duration**: 6 minutes per team
-- **Q&A**: 4 minutes for questions from the jury
+- **Presentation Duration**: 4 minutes per team
+- **Q&A**: 1 minute for questions from the jury
 - **Format Options** (choose what works best for your team):
   - 📊 PowerPoint / Slides
   - 🎬 Live Demo
@@ -76,7 +77,7 @@ This hackathon is about learning, architecting, and designing solutions using **
 
 | Category | Technologies |
 |----------|-------------|
-| **AI & GenAI** | Azure OpenAI, Azure AI Foundry, M365 Copilot, Copilot Studio, Agent Framework |
+| **AI & GenAI** | Microsoft Foundry, M365 Copilot, Copilot Studio, Agent Framework |
 | **Data & Analytics** | Microsoft Fabric, Power BI, Azure AI Search, Cosmos DB |
 | **Low-Code / No-Code** | Power Platform (Power Apps, Power Automate, Power Pages) |
 | **Development** | Azure Functions, Logic Apps, GitHub Copilot, VS Code |
@@ -93,8 +94,8 @@ Need a spark? Here are some ideas to get your creative juices flowing:
 
 | Idea | Description | Tech Stack Examples | Potential Datasets |
 |------|-------------|---------------------|--------------------|
-| **💝 AI Love Letter Generator** | Generate personalized, romantic messages based on recipient preferences | Azure OpenAI, Copilot Studio | Gift Recommender, Matchmaking |
-| **🍫 Smart Chocolate Recommender** | GenAI-powered recommendation engine for the perfect chocolate gift | Azure AI Foundry, Power Apps | Cupid Chocolate Global, Gift Recommender |
+| **💝 AI Love Letter Generator** | Generate personalized, romantic messages based on recipient preferences | Microsoft Foundry, Copilot Studio | Gift Recommender, Matchmaking |
+| **🍫 Smart Chocolate Recommender** | GenAI-powered recommendation engine for the perfect chocolate gift | Microsoft Foundry, Power Apps | Cupid Chocolate Global, Gift Recommender |
 | **💑 Compatibility Copilot** | AI assistant that analyzes personality traits and predicts match success | Copilot Studio, Agent Framework | Matchmaking, Behavior Graph |
 | **📊 Valentine's Sales Dashboard** | Interactive dashboard with AI-generated insights and predictions | Power BI, Microsoft Fabric | Cupid Chocolate Global |
 | **🌍 Global Love Tracker** | Real-time visualization of message delivery performance across regions | Power BI, Azure Maps | Love Notes Telemetry, Global Routing |
@@ -293,7 +294,15 @@ Your project will be judged by a panel of Microsoft Managers with technical back
 | | Q&A Handling | /6 |
 
 ### 🏆 Prizes
-There will be prizes for the team with the highest score! May the best Cupids win! 🎁
+
+| Award | Description |
+|-------|-------------|
+| 🤦 **Best Blunder** | For memorable stories of why their idea is recommended — experienced or not! |
+| 🐑 **Mistake Shepherd** | For covering as many gaps as possible |
+| 💻 **It Works On My Machine** | For local-only fixes that somehow get the job done |
+| 🌷 **Polder-Proof Architecture** | For the solution that would survive Dutch scale, regulations, and rainy-day traffic |
+
+May the best Cupids win! 🎁
 
 ---
 
@@ -301,7 +310,7 @@ There will be prizes for the team with the highest score! May the best Cupids wi
 
 This hackathon is a mix of **business** and **fun**! We encourage:
 - 💼 Solid technical solutions with real-world applicability
-- 🎨 Creative, even humorous concepts
+- 🎨 Creative, with humorous concepts
 - 🎉 Having fun while learning!
 
 Don't be afraid to get silly with your theme — Cupid appreciates a good sense of humor! 😄
