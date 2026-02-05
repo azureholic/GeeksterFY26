@@ -102,6 +102,8 @@ Your project will be judged by a panel of Microsoft Managers with technical back
 | 🌷 **Polder-Proof Architecture** | For the solution that would survive Dutch scale, regulations, and rainy-day traffic |
 
 May the best Cupids win! 🎁
+
+
 ---
 
 ## 🤖 Microsoft AI Solutions
