@@ -298,7 +298,7 @@ Your project will be judged by a panel of Microsoft Managers with technical back
 |-------|-------------|
 | 🤦 **Best Blunder** | For memorable stories of why their idea is recommended — experienced or not! |
 | 🐑 **Mistake Shepherd** | For covering as many gaps as possible |
-| 💻 **It Works On My Machine** | For local-only fixes that somehow get the job done |
+| 💖 **Love Doctor** | Contributing to love in the world |
 | 🌷 **Polder-Proof Architecture** | For the solution that would survive Dutch scale, regulations, and rainy-day traffic |
 
 May the best Cupids win! 🎁
