@@ -1,0 +1,13 @@
+{
+  "name": "cupid-matchmaking-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node match_dashboard_server.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "express": "^4.19.2"
+  }
+}
